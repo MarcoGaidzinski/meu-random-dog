@@ -7,7 +7,8 @@
 					<content>
 						<Image width="100%" id="image-container" visible="false"/>
 						<html:video autoplay="true" width="100%">
-							<html:source id="video-container" type="video/mp4" hidden="true"></html:source>
+							<html:source id="video-container" type="video/mp4" hidden="true">
+							</html:source>
 						</html:video>
 					</content>
 					<footer>

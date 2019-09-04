@@ -57,6 +57,5 @@ sap.ui.define([
 				.setVisible(true)
 				.setSrc(sUrl);
 		}
-
 	});
 });
