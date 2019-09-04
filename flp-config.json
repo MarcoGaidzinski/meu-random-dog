@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "ovly.meu-random-dog",
+        "description": "Imagens e vídeos de cachorros aleatórios",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#meurandomdog-Display",
+        "navigationComponentName": "ovly.meu-random-dog",
+        "intentSemanticObject": "meu-random-dog",
+        "intentAction": "Display",
+        "html5ApplicationName": "meurandomdog",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "1543c3e2-0bd6-4a38-96ca-3815169b82a5"
+        ],
+        "contentPackages": [
+            "d085f8be-f59c-4cf8-ab71-b2106729441d"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Random Dog",
+        "subtitle": "Images and Videos",
+        "searchKeywords": "Random Dog,Images and Videos",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
